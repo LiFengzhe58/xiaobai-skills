@@ -173,6 +173,8 @@ If this project saves you setup time, consider sponsoring ongoing maintenance:
 
 [Sponsor via WeChat Pay](docs/wechat-sponsor.md)
 
+You can scan the WeChat QR code from the sponsor page.
+
 Sponsors help fund:
 
 - testing across more Codex environments

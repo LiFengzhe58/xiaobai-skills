@@ -7,14 +7,16 @@ WeChat Pay / WeChat appreciation as the primary sponsorship channel for now.
 
 ## WeChat Pay
 
-The WeChat payment QR code will be published here:
+Scan this QR code with WeChat to sponsor Xiaobai Skills:
 
-```text
-assets/wechat-pay.png
-```
+![WeChat Pay QR code](../assets/wechat-pay.jpg)
 
-If the QR code is not visible yet, please open an issue or contact the maintainer
-through GitHub:
+If the QR code is not visible, open the image directly:
+
+https://github.com/Tyuts/xiaobai-skills/blob/main/assets/wechat-pay.jpg
+
+If payment does not work, please open an issue or contact the maintainer through
+GitHub:
 
 https://github.com/Tyuts/xiaobai-skills/issues
 
@@ -35,4 +37,3 @@ Sponsorship helps fund:
   behavior.
 - If your organization wants to sponsor publicly, open an issue and we can add a
   public sponsor acknowledgement section to the README.
-
