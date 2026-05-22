@@ -75,6 +75,5 @@ GitHub: https://github.com/Tyuts/xiaobai-skills
 ## Sponsor Pitch
 
 If Xiaobai Skills saves you setup time or helps your team onboard Codex users,
-please consider sponsoring maintenance. Sponsorship funds better installers,
-more tested starter stacks, docs, and compatibility work.
-
+please consider sponsoring maintenance through WeChat Pay. Sponsorship funds
+better installers, more tested starter stacks, docs, and compatibility work.

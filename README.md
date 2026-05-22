@@ -5,7 +5,7 @@
 [![Release](https://img.shields.io/github/v/release/Tyuts/xiaobai-skills?include_prereleases)](https://github.com/Tyuts/xiaobai-skills/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Codex Skills](https://img.shields.io/badge/Codex-Skills-2563EB)](SKILL.md)
-[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa)](https://github.com/sponsors/Tyuts)
+[![Sponsor](https://img.shields.io/badge/Sponsor-WeChat%20Pay-07C160)](docs/wechat-sponsor.md)
 
 Xiaobai Skills helps new Codex users get a useful skills setup quickly:
 
@@ -171,7 +171,7 @@ Restart Codex and keep working
 
 If this project saves you setup time, consider sponsoring ongoing maintenance:
 
-[Sponsor on GitHub](https://github.com/sponsors/Tyuts)
+[Sponsor via WeChat Pay](docs/wechat-sponsor.md)
 
 Sponsors help fund:
 
